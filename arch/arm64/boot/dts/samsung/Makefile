@@ -10,6 +10,9 @@ dtbo-$(CONFIG_EXYNOS9611_M31) += \
 	exynos9611-m31_eur_open_00.dtbo \
 	exynos9611-m31_eur_open_01.dtbo
 
+dtbo-$(CONFIG_EXYNOS9611_M31S) += \
+	exynos9611-m31s_eur_open_00.dtbo
+
 dtbo-$(CONFIG_EXYNOS9611_F41) += \
 	exynos9611-f41_swa_open_00.dtbo
 
